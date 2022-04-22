@@ -29,4 +29,4 @@ Download the latest release (Nxcox.zip) and extract the EXE to your desktop.
 And run it
 ```
 
-🌟 **Enjoyed Nxcox Profile HypqSquad?** Consider dropping a star :)
+🌟 **Enjoyed Nxcox Profile HypqSquad **:)
